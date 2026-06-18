@@ -40,15 +40,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0649-dota2-senate](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0649-dota2-senate/) | Medium |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -58,4 +61,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0649-dota2-senate](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0649-dota2-senate/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 <!---LeetCode Topics End-->
