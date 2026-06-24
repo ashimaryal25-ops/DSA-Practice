@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0056-merge-intervals/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0383-ransom-note/) | Easy |
@@ -133,4 +135,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
