@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0222-count-complete-tree-nodes/) | Easy |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0056-merge-intervals/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -168,4 +170,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
