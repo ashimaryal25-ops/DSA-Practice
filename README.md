@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0704-binary-search](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0704-binary-search/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Queue
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0322-coin-change](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0322-coin-change/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
