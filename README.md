@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0207-course-schedule/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0207-course-schedule/) | Medium |
 | [0322-coin-change](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0322-coin-change/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0994-rotting-oranges](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0994-rotting-oranges/) | Medium |
@@ -197,4 +199,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0200-number-of-islands/) | Medium |
 | [0221-maximal-square](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0221-maximal-square/) | Medium |
 | [0994-rotting-oranges](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0994-rotting-oranges/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0207-course-schedule/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
