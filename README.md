@@ -15,12 +15,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0100-same-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0112-path-sum/) | Easy |
+| [0200-number-of-islands](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0200-number-of-islands/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0112-path-sum/) | Easy |
+| [0200-number-of-islands](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0322-coin-change/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Binary Tree
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0200-number-of-islands](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0200-number-of-islands/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0221-maximal-square](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0221-maximal-square/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -166,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0200-number-of-islands/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,5 +192,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0200-number-of-islands](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0200-number-of-islands/) | Medium |
 | [0221-maximal-square](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0221-maximal-square/) | Medium |
 <!---LeetCode Topics End-->
