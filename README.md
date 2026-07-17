@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0322-coin-change/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0994-rotting-oranges](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0704-binary-search/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [0994-rotting-oranges](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0994-rotting-oranges/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -194,4 +196,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0200-number-of-islands/) | Medium |
 | [0221-maximal-square](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0221-maximal-square/) | Medium |
+| [0994-rotting-oranges](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0994-rotting-oranges/) | Medium |
 <!---LeetCode Topics End-->
