@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0097-interleaving-string](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0097-interleaving-string/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0344-reverse-string](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0383-ransom-note/) | Easy |
 | [0567-permutation-in-string](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0567-permutation-in-string/) | Medium |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0383-ransom-note/) | Easy |
@@ -220,4 +222,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0078-subsets/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 <!---LeetCode Topics End-->
