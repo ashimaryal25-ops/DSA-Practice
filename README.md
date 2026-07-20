@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0100-same-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0112-path-sum/) | Easy |
+| [0133-clone-graph](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0207-course-schedule/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0617-merge-two-binary-trees/) | Easy |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0100-same-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0112-path-sum/) | Easy |
+| [0133-clone-graph](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0207-course-schedule/) | Medium |
 | [0322-coin-change](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0322-coin-change/) | Medium |
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0133-clone-graph](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0133-clone-graph/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -212,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0133-clone-graph](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0207-course-schedule/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
